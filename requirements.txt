@@ -1,0 +1,9 @@
+Pandas
+matplotlib
+streamlit
+numpy
+plotly
+scikit-learn
+beautifulsoup4
+requests
+Youtube API KEY
